@@ -14,22 +14,22 @@ td {
 	background-color: white;
 }
 td.left {
-	width: 25%;
+	width: 30%;
 	vertical-align: text-top;
 }
 td.middle{
-	width: 60%;
+	width: 50%;
 	vertical-align: middle;
 }
 td.right {
-	width: 15%;
+	width: 20%;
 	vertical-align: top; 
 	}
 p.left {
 	margin-top: 0;
 }
 img {
-	width: auto
+	width: 100%;
 }
 }
 .footer {
