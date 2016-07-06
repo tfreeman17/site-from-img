@@ -33,7 +33,9 @@ img {
 }
 }
 .footer {
-	text-align: center;
+	display: block;
+	margin: auto;
+	width: 50%;
 }
 h3 {
 	margin-top: 0;
