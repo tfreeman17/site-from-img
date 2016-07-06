@@ -31,11 +31,8 @@ p.left {
 img {
 	width: 100%;
 }
-}
 .footer {
-	display: block;
-	margin: auto;
-	width: 50%;
+	text-align: center;
 }
 h3 {
 	margin-top: 0;
